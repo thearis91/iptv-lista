@@ -1,17 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/cl/TNTSports/logo.png",TNT Sports CL SD
-https://iptv-org.github.io/channels/cl/TNTSports/SD.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/cl/TNTSports/logo.png",TNT Sports CL HD
-https://iptv-org.github.io/channels/cl/TNTSports/HD.m3u8
+########################################
+# ✅ TNT Sports Chile (1 al 4)
+########################################
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TNT_Sports_logo_2021.png",TNT Sports 1 HD
+https://iptv-org.github.io/channels/cl/TNTSports/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/cl/ESPN4/logo.png",ESPN 4 CL
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TNT_Sports_logo_2021.png",TNT Sports 2 HD
+https://iptv-org.github.io/channels/cl/TNTSports2/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TNT_Sports_logo_2021.png",TNT Sports 3 HD
+https://iptv-org.github.io/channels/cl/TNTSports3/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TNT_Sports_logo_2021.png",TNT Sports 4 HD
+https://iptv-org.github.io/channels/cl/TNTSports4/index.m3u8
+
+########################################
+# ✅ ESPN Chile y Argentina
+########################################
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg",ESPN Chile HD
 https://iptv-org.github.io/channels/cl/ESPN4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/ar/ESPN/index.m3u8",ESPN AR
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg",ESPN Argentina HD
 https://iptv-org.github.io/channels/ar/ESPN/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/cl/FoxSports1/logo.png",Fox Sports CL
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg",ESPN 2 Argentina HD
+https://iptv-org.github.io/channels/ar/ESPN2/index.m3u8
+
+########################################
+# ✅ FOX Sports (Chile/Argentina)
+########################################
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Fox_Sports_logo.png",Fox Sports 1 Chile HD
 https://iptv-org.github.io/channels/cl/FoxSports1/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/.../DirecTVSports/logo.png",DirecTV Sports LATAM
-https://iptv-org.github.io/channels/.../DirecTVSports/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Fox_Sports_logo.png",Fox Sports 2 Argentina HD
+https://iptv-org.github.io/channels/ar/FoxSports2/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Fox_Sports_logo.png",Fox Sports 3 Argentina HD
+https://iptv-org.github.io/channels/ar/FoxSports3/index.m3u8
+
+########################################
+# ✅ DIRECTV Sports (LATAM)
+########################################
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/DirecTV_Sports_logo.svg",DirecTV Sports HD
+https://iptv-org.github.io/channels/la/DirecTVSports/index.m3u8
+
+########################################
+# 📺 Otros canales se irán agregando…
+########################################
