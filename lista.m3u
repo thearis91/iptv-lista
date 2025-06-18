@@ -1,10 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://htp.es/espndeportes_logo.png",ESPN Deportes (US)
-https://cdn.iptv-org.com/streams/es/espndeportes.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/cl/TNTSports/logo.png",TNT Sports CL SD
+https://iptv-org.github.io/channels/cl/TNTSports/SD.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/cl/TNTSports/logo.png",TNT Sports CL HD
+https://iptv-org.github.io/channels/cl/TNTSports/HD.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (US)
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/cl/ESPN4/logo.png",ESPN 4 CL
+https://iptv-org.github.io/channels/cl/ESPN4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/ar/ESPN/index.m3u8",ESPN AR
+https://iptv-org.github.io/channels/ar/ESPN/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/Qk4YL4r.png",TNT Sports CL SD
-https://cdn.iptv-org.com/streams/cl/tntsports_sd.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/cl/FoxSports1/logo.png",Fox Sports CL
+https://iptv-org.github.io/channels/cl/FoxSports1/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptv-org.github.io/channels/.../DirecTVSports/logo.png",DirecTV Sports LATAM
+https://iptv-org.github.io/channels/.../DirecTVSports/index.m3u8
