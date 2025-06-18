@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://htp.es/espndeportes_logo.png",ESPN Deportes (US)
+https://cdn.iptv-org.com/streams/es/espndeportes.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (US)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/Qk4YL4r.png",TNT Sports CL SD
+https://cdn.iptv-org.com/streams/cl/tntsports_sd.m3u8
